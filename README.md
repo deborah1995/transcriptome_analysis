@@ -17,3 +17,21 @@ Quantification: Gene expression quantification using featureCounts.
 Differential Expression Analysis (DEA): Identification of differentially expressed genes using DESeq2.
 
 Visualization: Principal Component Analysis (PCA) plots, heatmaps, and volcano plots.
+
+##### Requirements
+
+Tools and Software:
+
+FastQC
+
+Trimmomatic
+
+STAR
+
+featureCounts (Subread package)
+
+DESeq2 (R/Bioconductor)
+
+Reference Genome:
+
+Homo sapiens (GRCh38/hg38)
