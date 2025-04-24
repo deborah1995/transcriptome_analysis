@@ -4,7 +4,7 @@ This repository contains scripts, methods, and outputs for the transcriptome ana
 
 ### Overview
 
-##### The analysis workflow includes the following main steps:
+#### The analysis workflow includes the following main steps:
 
 Quality control (QC): Assessment of raw reads using FastQC.
 
@@ -18,7 +18,7 @@ Differential Expression Analysis (DEA): Identification of differentially express
 
 Visualization: Principal Component Analysis (PCA) plots, heatmaps, and volcano plots.
 
-##### Requirements
+#### Requirements
 
 Tools and Software:
 
